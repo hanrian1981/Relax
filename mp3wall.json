@@ -1,0 +1,73 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "startappid": "201669628",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner": "YOUR_PLACEMENT_ID",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 3
+    
+    }
+  ],"Mp3": [
+    {
+      "name_mp3": "Beauty Floet",
+      "link_mp3": "https://aliendro.id/projek/demo/Beauty_Floet.mp3"
+    },{
+      "name_mp3": "Best Floet",
+      "link_mp3": "https://aliendro.id/projek/demo/Best_Floet.mp3"
+    },{
+      "name_mp3": "Bird Forest",
+      "link_mp3": "https://aliendro.id/projek/demo/Bird_Forest.mp3"
+    },{
+      "name_mp3": "Bird and Water",
+      "link_mp3": "https://aliendro.id/projek/demo/Bird_and_Water.mp3"
+    },{
+      "name_mp3": "Insomnia",
+      "link_mp3": "https://aliendro.id/projek/demo/Insomnia.mp3"
+    },{
+      "name_mp3": "Nature Piano",
+      "link_mp3": "https://aliendro.id/projek/demo/Nature_Piano.mp3"
+    },{
+      "name_mp3": "Nature",
+      "link_mp3": "https://aliendro.id/projek/demo/Nature.mp3"
+    },{
+      "name_mp3": "Nature Beep",
+      "link_mp3": "https://aliendro.id/projek/demo/Nature_Beep.mp3"
+    },{
+      "name_mp3": "Rain",
+      "link_mp3": "https://aliendro.id/projek/demo/Rain.mp3"
+    },{
+      "name_mp3": "Soul Beach",
+      "link_mp3": "https://aliendro.id/projek/demo/Soul_Beach.mp3"
+    },{
+      "name_mp3": "Water Sound",
+      "link_mp3": "https://aliendro.id/projek/demo/Water_Sound.mp3"
+    }
+  ],"Wallpaper": [
+    {
+      "image": "https://aliendro.id/projek/demo/nature1.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature2.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature3.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature4.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature5.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature6.jpg"
+    },{
+      "image": "https://aliendro.id/projek/demo/nature7.jpg"
+    }
+  ]
+}

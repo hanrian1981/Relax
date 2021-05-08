@@ -4,9 +4,9 @@
       "select_ads": "ADMOB",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_bannerid": "ca-app-pub-3940256099942544/6300978111",
-      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_interid": "",
+      "admob_bannerid": "ca-app-pub-7763542908071140/2705018729",
+      "admob_openid": "ca-app-pub-7763542908071140/8785080025",
       "startappid": "",
       "fan_inter": "",
       "fan_banner": "",
@@ -15,7 +15,7 @@
       "unityID":"",
       "unity_inter":"",
       "unity_banner":"",
-      "interval": 3
+      "interval": 5
     
     }
   ],"Mp3": [

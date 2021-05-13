@@ -1,0 +1,85 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "",
+      "admob_bannerid": "ca-app-pub-7763542908071140/9607518165",
+      "admob_openid": "ca-app-pub-7763542908071140/8828310036",
+      "startappid": "",
+      "fan_inter": "",
+      "fan_banner": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":"",
+      "interval": 5
+    
+    }
+  ],"Mp3": [
+    {
+    "name_mp3": "Yoga Music",
+    "link_mp3": "https://cldup.com/riPBd9eTtG.mp3"
+  },{
+    "name_mp3": "Yoga - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Stress Music",
+    "link_mp3": "https://ia801504.us.archive.org/3/items/RelaxingSleepMusic.DeltaWavesBinauralBeatsHealingForDeepSleepStressReliefMeditation/Yoga%20Music%20Relaxing%20Music%20Calming%20Music%20Stress%20Relief%20Music%20Peaceful%20Music%20Relax.mp3"
+  },{
+    "name_mp3": "Drum Tabla Music",
+    "link_mp3": "https://ia601507.us.archive.org/12/items/SpaMusicRelaxation_20181129_1842/Hang%20Drum%20%2B%20Tabla%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music Power",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20Music%20Power%20Flow.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga Chakra Music",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20Chakra%20Music.mp3"
+  },{
+    "name_mp3": "Indian Yoga Music",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Indian%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Music Yoga",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Music%20for%20Yoga%20by%20Jonny%20Be.mp3"
+  },{
+    "name_mp3": "Yoga Music Flute",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Spa%20Music%20Flute%20Meditation%20New%20Age%20Yoga.mp3"
+  },{
+    "name_mp3": "Yoga Energizing",
+    "link_mp3": "https://ia601406.us.archive.org/13/items/OliverShantiChuangTzu/Upbeat%20Yoga%20Energizing%20Indian%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Massage Spa",
+    "link_mp3": "https://ia601406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20Massage%20Spa.mp3"
+  },{
+    "name_mp3": "Yoga Music Massage",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20Music%20Massage.mp3"
+  },{
+    "name_mp3": "New Age Music Yoga",
+    "link_mp3": "https://ia601406.us.archive.org/13/items/OliverShantiChuangTzu/New%20Age%20Music%20Yoga%20Music%20Spa.mp3"
+  },{
+    "name_mp3": "India Rhythmic Grooves",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/YOGA%20GROOVES%20%20Rhythmic%20Yoga%20Music%20from%20India.mp3"
+  },{
+    "name_mp3": "Yoga music India",
+    "link_mp3": "https://ia801406.us.archive.org/13/items/OliverShantiChuangTzu/Yoga%20music%20India%20Sound%20Rhythm%20Music%20Meditation.mp3"
+  },{
+    "name_mp3": "Arabic Yoga Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Arabic%20Yoga%20Music.mp3"
+  },{
+    "name_mp3": "Yoga Music - Meditation Music",
+    "link_mp3": "https://archive.org/download/arabicyogamusic/Yoga%20Music%20-%20Meditation%20Music.mp3"
+  }
+  ],"Wallpaper": [
+    {
+      "image": "https://1.bp.blogspot.com/-CyhBWWmU-RE/YJ1IjW4RUNI/AAAAAAAACgk/x418i8TxjQYChxdrewHKKPW9tRy_lTJqgCLcBGAsYHQ/s0/yoga.png"
+    }
+  ]
+}
